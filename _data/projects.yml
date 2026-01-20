@@ -1,0 +1,17 @@
+- name: "AI Translation Gateway"
+  one_liner: "Enterprise-style translation API with provider abstraction and ADRs."
+  tech: "Java, Spring Boot, REST, Validation"
+  highlights: "Provider abstraction • Clean architecture • ADRs"
+  repo: "https://github.com/<your-username>/ai-translation-gateway"
+
+- name: "Azure CI/CD Reference"
+  one_liner: "Sample pipelines and release patterns for a cloud-native service."
+  tech: "Azure DevOps, YAML, Build/Release"
+  highlights: "Quality gates • Secrets handling • Rollback strategy"
+  repo: "https://github.com/<your-username>/azure-cicd-reference"
+
+- name: "Maintenance NLP Insights (Sample)"
+  one_liner: "NLP pipeline to turn narratives into actionable insights."
+  tech: "Python, NLP, Pandas"
+  highlights: "Text normalisation • Feature extraction • Reporting"
+  repo: "https://github.com/<your-username>/maintenance-nlp-insights"

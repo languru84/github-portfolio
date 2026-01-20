@@ -1,0 +1,23 @@
+title: "Lan | Portfolio"
+description: "Senior Solution & AI Architect • Full-Stack • Azure"
+theme: jekyll-theme-cayman
+
+# Optional: if you use a project page like https://username.github.io/repo
+# baseurl: "/github-portfolio-template"
+# url: "https://username.github.io"
+
+markdown: kramdown
+plugins: []
+
+# Social / contact (edit)
+author:
+  name: "Lakshminarayanan Gururaj"
+  location: "UK/India"
+  email: "lgururaj@outlook.com"
+  linkedin: "https://www.linkedin.com/in/lakshminarayanan-g-5236048/"
+  github: "https://github.com/languru84/github-portfolio"
+
+# Build settings
+exclude:
+  - README.md
+  - LICENSE
