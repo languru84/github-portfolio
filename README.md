@@ -1,24 +1,27 @@
-# GitHub Portfolio Template (Jekyll + GitHub Pages)
+## About Me
 
-This is a minimal, professional portfolio site that you can deploy using **GitHub Pages** with zero build tooling.
+I am a **Senior Lead Technical Architect** with 18+ years of experience designing and delivering enterprise-scale applications. I specialise in **solution architecture, full-stack development, cloud-native platforms, and AI-enabled solutions**, with strong hands-on expertise in Java, Spring Boot, microservices, and Azure.
 
-## Why this template
-- GitHub Pages supports **Jekyll themes** out of the box
-- Fast to edit (Markdown + a simple YAML file for projects)
+## What I do
+- Design and lead **end-to-end solution architecture** across application, UI, database, and integration layers  
+- Deliver **full-stack solutions** using Angular/JavaScript, Java/Spring Boot, and SQL/PL-SQL  
+- Build and modernise **cloud-native platforms on Azure** with a focus on scalability, security, and performance  
+- Apply **AI and NLP** (including language translation and workflow automation) to solve real operational and business problems  
 
-## Quick start
-1. Create a new repo named: `<your-username>.github.io` (recommended)
-2. Upload these files to the repo root
-3. In repo settings → Pages → select:
-   - Source: **Deploy from a branch**
-   - Branch: `main` / root
-4. Edit:
-   - `_config.yml` (name, links)
-   - `_data/projects.yml` (projects)
-   - `index.md` (summary bullets)
+## How I work
+1. Translate business requirements into scalable technical architectures  
+2. Lead cross-functional teams and ensure predictable, high-quality delivery  
+3. Embed quality, performance, and cost optimisation into every solution  
+4. Integrate AI capabilities pragmatically with governance and reliability  
 
-## Optional: Project pages
-If you deploy from a repo like `username.github.io/my-portfolio`, set `baseurl` in `_config.yml`.
+## What this portfolio contains
+- Enterprise reference architectures and design patterns  
+- Full-stack and cloud-native sample projects  
+- AI-enabled use cases focused on real-world adoption  
+- Code and documentation that reflect how I think, design, and deliver systems  
 
-## License
-MIT
+## Focus areas
+- Solution & Application Architecture  
+- Full-Stack Engineering  
+- Azure Cloud & DevOps  
+- AI / NLP–enabled Enterprise Solutions  
